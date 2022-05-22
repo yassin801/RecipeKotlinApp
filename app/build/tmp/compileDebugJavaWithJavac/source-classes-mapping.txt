@@ -1,0 +1,15 @@
+com/codingwithme/recipeapp/dao/RecipeDao_Impl.java
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$1
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$2
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$3
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$4
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$5
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$6
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$7
+ com.codingwithme.recipeapp.dao.RecipeDao_Impl$8
+com/codingwithme/recipeapp/database/RecipeDatabase_Impl.java
+ com.codingwithme.recipeapp.database.RecipeDatabase_Impl
+ com.codingwithme.recipeapp.database.RecipeDatabase_Impl$1
+com/codingwithme/recipeapp/BuildConfig.java
+ com.codingwithme.recipeapp.BuildConfig

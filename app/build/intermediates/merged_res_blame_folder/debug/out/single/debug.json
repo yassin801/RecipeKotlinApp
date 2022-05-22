@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_splash.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\bg_splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_img.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\cat_img.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy_light.otf.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\font\\gilroy_light.otf"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_main_category.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\layout\\item_rv_main_category.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg2.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\btn_bg2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bg.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_sub_category.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\layout\\item_rv_sub_category.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fav_unfill.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\ic_fav_unfill.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy_bold.otf.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\font\\gilroy_bold.otf"
+    },
+    {
+        "merged": "D:\\Projects\\RecipeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg3.xml.flat",
+        "source": "D:\\Projects\\RecipeApp\\app\\src\\main\\res\\drawable\\btn_bg3.xml"
+    }
+]
